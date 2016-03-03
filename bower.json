@@ -1,0 +1,21 @@
+{
+  "name": "JS-Design-Patterns",
+  "homepage": "https://github.com/matmancini/JS-Design-Patterns",
+  "authors": [
+    "Matias Mancini <info@matiasmancini.com.ar>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "^4.6.0"
+  }
+}
